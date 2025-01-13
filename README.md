@@ -1,6 +1,6 @@
 # ecommerce_app
 
-A new Flutter project.
+![ecommerce_app](https://github.com/user-attachments/assets/a8effa4a-9ada-4a33-befb-e2da8b26c5e8)
 
 ## Getting Started
 
